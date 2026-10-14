@@ -1,0 +1,3 @@
+# YouTube channel IDs (UC...) of clinicians/researchers whose video comments
+# youtube.py collects via commentThreads.list (1 quota unit per video).
+# One channel id per line; comments after # are ignored.

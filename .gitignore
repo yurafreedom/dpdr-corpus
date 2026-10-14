@@ -1,0 +1,23 @@
+# Harvested data never goes into git.
+raw/
+fulltext/
+exports/
+status/
+corpus.db
+corpus.db-*
+# Scratch databases (DPDR_DB=...) and their checkpoint folders.
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*_status/
+scratch/
+# Secrets.
+.env
+.env.*
+!.env.example
+# Python.
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/

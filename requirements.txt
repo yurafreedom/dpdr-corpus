@@ -1,0 +1,6 @@
+requests>=2.32
+fonttools>=4.50
+pypdf>=5
+numpy>=2
+scikit-learn>=1.5
+praw>=7.7

@@ -1,0 +1,8 @@
+# X/Twitter handles whose timelines x_timelines.py reads (spec section 10).
+# One handle per line, without @. Comments after # are ignored.
+# Budget: 20 accounts x 100 posts = the whole $10 voucher, so keep this short
+# (default cap X_MAX_POSTS_PER_ACCOUNT=60). Verify each handle by hand first:
+# researchers from section 7 who are active on X, Unreal (UK charity), ISSTD,
+# specialised clinics.
+#
+# unrealcharity   # linked from unrealcharity.com footer (verify still active)
